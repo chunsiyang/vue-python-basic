@@ -1,0 +1,24 @@
+{
+
+    "APPVERSION": "APP_Dev:0.0.1",
+    "WEBUI":"inspinia:2.9.2",
+    "HOST": "0.0.0.0",
+    "PORT": "9999",
+    "SUPERTOKEN":"",
+    "DB": {
+        "HOST": "127.0.0.1",
+        "PORT": 27017,
+        "DBNAME":"vue-python-basic",
+        "USER": "root",
+        "PWD": "vue-python-basic"
+    },
+    "DEBUG": true,
+    "LOGGING":true,
+    "SHA1_SECRET_KEY": "vue-python-basic",
+    "JWT_SECRET_KEY": "vue-python-basic",
+    "ADMIN" :  {
+            "name": "admin",
+            "password": "admin",
+            "email": ""
+        }
+}

@@ -1,0 +1,24 @@
+{
+  "requirements": [
+    {
+      "name": "flask",
+      "version": "release"
+    },
+    {
+      "name": "flask-cors",
+      "version": "release"
+    },
+    {
+      "name": "pymongo",
+      "version": "release"
+    },
+    {
+      "name": "pyjwt",
+      "version": "release"
+    },
+    {
+      "name": "lxml",
+      "version": "release"
+    }
+  ]
+}
